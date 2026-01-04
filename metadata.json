@@ -1,0 +1,7 @@
+{
+  "name": "Jessica's Audio Crimes Division",
+  "description": "A parody site dedicated to auditing Jessica's questionable musical choices and the home of the legendary 'EeeeeeeYUCK!' reaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
